@@ -2,13 +2,13 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.sidebar.title("clinica davila won")
-st.sidebar.header("va pegao el loco")
-st.sidebar.write("va pegao")
+st.sidebar.title("insertar texto")
+st.sidebar.header("insertar texto")
+st.sidebar.write("insertar texto")
 
 st.sidebar.image("logo-clinica-davila.jpg")
-if st.sidebar.button("va pegao loco won"):
-    st.sidebar.write("fue el loco")
+if st.sidebar.button("insertar texto"):
+    st.sidebar.write("insertar texto")
  
-user_input = st.sidebar.text_input("ya fue")
-st.sidebar.write("iba pegao el", user_input)
+user_input = st.sidebar.text_input("insertar texto")
+st.sidebar.write("insertar texto", user_input)

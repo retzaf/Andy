@@ -6,7 +6,7 @@ st.sidebar.title("aleatorio")
 st.sidebar.header("aleatorio")
 st.sidebar.write("aleatorio")
 
-st.sidebar.image("images.jpg")
+st.sidebar.image("logo-clinica-davila.jpg")
 if st.sidebar.button("aleatorio"):
     st.sidebar.write("aleatorio")
  

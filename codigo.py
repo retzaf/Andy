@@ -6,7 +6,7 @@ st.sidebar.title("insertar texto")
 st.sidebar.header("insertar texto")
 st.sidebar.write("insertar texto")
 
-st.sidebar.image("logo-clinica-davila.jpg")
+st.sidebar.image("DEFINICIONES-PNG.jpg")
 if st.sidebar.button("insertar texto"):
     st.sidebar.write("insertar texto")
  
